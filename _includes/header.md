@@ -1,4 +1,4 @@
-# [CS50 AP]({{ "/" | relative_url }})
+# [CS20 AP]({{ "/" | relative_url }})
 
-Harvard University\\
+Dr. Martin LeBoldus Catholic High School\\
 2019–2020
